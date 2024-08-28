@@ -49,6 +49,7 @@ function SignInSignUp() {
 
   return (
     <div className="relative w-full h-screen">
+      <input type="checkbox" name="" id="" />
       <img
         src={stockImage}
         alt="Stock Market"
